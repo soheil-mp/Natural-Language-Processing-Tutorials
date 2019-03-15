@@ -1,7 +1,7 @@
 # Mentor Webinar Content for NLP Nanodegree Udacity
 Every week at Saturdays, There is going to be a webinar covering up some part of NLP Nanodegree. Inside each Jupyter Notebook, You can find some example codes, resources for further studying, and notes. Below you cann see the exact title of each webinar:
 
-1. Webinar 1: Welcome Session
+1. <a src="https://www.youtube.com/watch?v=r09vRYYm0Pc&feature=youtu.be">Webinar 1: Welcome Session</a>
 2. Webinar 2: Intro to NLP, Text Processing, Spam Classifier
 3. Webinar 3: Parts of Speech Tagging with HMM
 4. Webinar 4: Project 1 walkthrough
