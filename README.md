@@ -4,7 +4,7 @@ Every week at Saturdays, There is going to be a webinar covering up some part of
 1. <a href="https://www.youtube.com/watch?v=r09vRYYm0Pc&feature=youtu.be">Webinar 1: Welcome Session</a>
 2. <a href="https://www.youtube.com/watch?v=-17Sq0PCCxE&feature=youtu.be">Webinar 2: Intro to NLP, Text Processing, Spam Classifier</a>
 3. <a href="https://www.youtube.com/watch?v=ZWJzHwo4_5M">Webinar 3: Parts of Speech Tagging with HMM</a>
-4. Webinar 4: Project 1 walkthrough
+4. <a href="https://www.youtube.com/watch?v=n7KMSIh57Xg&feature=youtu.be">Webinar 4: Project 1 walkthrough</a>
 5. Webinar 5: Feature Extraction & Embedding (core) & Embeddings and Word2Vec (extracurricular)
 6. Webinar 6: Topic Modeling & Sentiment Analysis (core + extracurricular)
 7. Webinar 7: Recurrent Neural Network (extracurricular) + Keras (core + extracurricular)
