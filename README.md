@@ -6,7 +6,7 @@ Every week at Saturdays, There is going to be a webinar covering up some part of
 3. <a href="https://www.youtube.com/watch?v=ZWJzHwo4_5M">Webinar 3: Parts of Speech Tagging with HMM</a>
 4. <a href="https://www.youtube.com/watch?v=n7KMSIh57Xg&feature=youtu.be">Webinar 4: Project 1 walkthrough</a>
 5. <a href="https://youtu.be/lX8Ou_c56aI">Webinar 5: Feature Extraction & Embedding (core) & Embeddings and Word2Vec (extracurricular)</a>
-6. Webinar 6: Topic Modeling & Sentiment Analysis (core + extracurricular)
+6. <a href="https://www.youtube.com/watch?v=CoM6UQRWpOU&feature=youtu.be">Webinar 6: Topic Modeling & Sentiment Analysis (core + extracurricular)</a>
 7. Webinar 7: Recurrent Neural Network (extracurricular) + Keras (core + extracurricular)
 8. Webinar 8: Seq2Seq & Attention
 9. Webinar 9: Project 2 walkthrough
