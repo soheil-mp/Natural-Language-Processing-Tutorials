@@ -9,8 +9,8 @@ Every week at Saturdays, There is going to be a webinar covering up some part of
 6. <a href="https://www.youtube.com/watch?v=CoM6UQRWpOU&feature=youtu.be">Webinar 6: Topic Modeling & Sentiment Analysis (core + extracurricular)</a>
 7. <a href="https://www.youtube.com/watch?v=h57n4wV4olg&feature=youtu.be">Webinar 7: Recurrent Neural Network (extracurricular) + Keras (core + extracurricular)</a>
 8. <a href="https://youtu.be/Lb3Xqztjs9A">Webinar 8: Seq2Seq & Attention</a>
-9. Webinar 9: Project 2 walkthrough
-10. Webinar 10: Intro to VUI & Speech Recognition
+9. <a href="https://www.youtube.com/watch?v=pZz-vHA6ITo">Webinar 9: Project 2 walkthrough</a>
+10. <a href="https://www.youtube.com/watch?v=kL4eElo8cSc&feature=youtu.be">Webinar 10: Intro to VUI & Speech Recognition</a>
 11. Webinar 11: Project 3 walkthrough
 12. Webinar 12: Optional labs - IBM Watson & Amazon Alexa
 13. Webinar 13: Extracurricular - Tensorflow & PyTorch
