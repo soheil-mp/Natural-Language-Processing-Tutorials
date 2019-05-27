@@ -1,5 +1,6 @@
 # Mentor Webinar Content for NLP Nanodegree Udacity
-Every week at Saturdays, There is going to be a webinar covering up some part of NLP Nanodegree. Inside each Jupyter Notebook, You can find some example codes, resources for further studying, and notes. Below you cann see the exact title of each webinar:
+NLP webinars which has been created for Udacity's mentorship program. The topics of these tutorials are text processing in NLP, spam detection, parts of speech tagging, project 1 walkthrough, features extraction & embedding, topic modeling, sentiment analysis, RNN, sequence to sequence (seq2seq) models, project 2 walkthrough, voice user interface (VUI), speech recognition, project 3 walkthrough, question and answer using IBM, voice user interface using Amazon Alexa, Tensorflow, Pytorch.
+Inside each Jupyter Notebook, You can find some example codes, resources for further studying, and notes. Below you cann see the exact title of each webinar:
 
 1. <a href="https://www.youtube.com/watch?v=r09vRYYm0Pc&feature=youtu.be">Webinar 1: Welcome Session</a>
 2. <a href="https://www.youtube.com/watch?v=-17Sq0PCCxE&feature=youtu.be">Webinar 2: Intro to NLP, Text Processing, Spam Classifier</a>
