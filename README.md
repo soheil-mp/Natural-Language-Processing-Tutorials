@@ -14,4 +14,4 @@ Inside each Jupyter Notebook, You can find some example codes, resources for fur
 10. <a href="https://www.youtube.com/watch?v=kL4eElo8cSc&feature=youtu.be">Webinar 10: Intro to VUI & Speech Recognition</a>
 11. <a href="https://www.youtube.com/watch?v=1DXDtd-nAmk&list=PLo_V6C6DnrjTUfKy67-mup24KBzslK4jT&index=11&t=1s">Webinar 11: Project 3 walkthrough</a>
 12. <a href="https://www.youtube.com/watch?v=rd1vgCSmI3A&list=PLo_V6C6DnrjTUfKy67-mup24KBzslK4jT&index=11">Webinar 12: Optional labs - IBM Watson & Amazon Alexa</a>
-13. Webinar 13: Extracurricular - Tensorflow & PyTorch
+13. <a href="https://www.youtube.com/watch?v=PluMhT8brCI&list=PLo_V6C6DnrjTUfKy67-mup24KBzslK4jT&index=13&t=0s">Webinar 13: Extracurricular - Tensorflow</a>
